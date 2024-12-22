@@ -1,1 +1,5 @@
-All projects for Data Structures course, UBCO
+# COSC 222
+
+## Data Structures
+
+Final Grade: 95%
